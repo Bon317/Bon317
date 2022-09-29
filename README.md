@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandon Griggs
-- 👀 I’m interested in web and game development
+- 👀 I’m interested in web development
 - 📫 How to reach me: Bon317@gmail.com
 
 <!---
